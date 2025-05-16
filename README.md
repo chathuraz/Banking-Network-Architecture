@@ -49,6 +49,3 @@ This project simulates a **4-floor Banking Network** in Cisco Packet Tracer, fea
 - Integrate **VPN** for remote access  
 
 **Feel free to contribute or suggest enhancements!**  
-
-📥 **Download & Explore:** [GitHub Repo Link]  
-#Networking #Cisco #CyberSecurity #BankingTech #ITInfrastructure  
